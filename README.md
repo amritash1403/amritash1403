@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on an ML project titled Fake Review Detection.<br>👯 I’m looking to collaborate on real time projects.<br>🤝 I’m looking for help with internships to expand my knowledge base.<br>🌱 I’m currently learning Artificial Intelligence and Machine Learning.<br>💬 Ask me about my interests and projects.<br>⚡ Fun fact: Coffee and cat videos gives me boost to work!! :D
+🔭 I’m currently working as an intern in Himitsu Labs.<br>👯 I’m looking to collaborate on real time projects.<br>🤝 I’m looking for help with full time to expand my knowledge base.<br>🌱 I’m currently learning Artificial Intelligence and Machine Learning.<br>💬 Ask me about my interests and projects.<br>⚡ Fun fact: Coffee and cat videos gives me boost to work!! :D
 
 
 ## 🌐 Socials:
